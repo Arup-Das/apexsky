@@ -116,4 +116,3 @@ jobs:
           apexsky/target/${{ matrix.target }}/release/${{ matrix.bin-prefix }}apexsky_overlay${{ matrix.bin-ext }}
     #      apexsky/target/${{ matrix.target }}/release/${{ matrix.bin-prefix }}apexsky_extension_packer${{ matrix.bin-ext }}
         retention-days: 5
-
