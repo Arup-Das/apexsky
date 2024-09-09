@@ -3,7 +3,6 @@
 name: CI
 
 on:
-  workflow_run:
   push:
     branches: [ "next" ]
   pull_request:
